@@ -1,0 +1,16 @@
+Model,Subset,Class,Precision,Recall,F1-Score,Support
+gpt-4o-mini,negative,helpful,0.81,0.98,0.89,12006
+gpt-4o-mini,negative,funny,0.23,0.04,0.06,543
+gpt-4o-mini,negative,unhelpful,0.25,0.03,0.06,2451
+gpt-4o-mini,negative,failed,0.00,0.00,0.00,0
+gpt-4o-mini,negative,Average (weighted),,,0.72,15000
+gpt-4o-mini,positive,helpful,0.99,0.97,0.98,14730
+gpt-4o-mini,positive,funny,0.15,0.29,0.20,156
+gpt-4o-mini,positive,unhelpful,0.02,0.03,0.02,114
+gpt-4o-mini,positive,failed,0.00,0.00,0.00,0
+gpt-4o-mini,positive,Average (weighted),,,0.96,15000
+gpt-4o-mini,all,helpful,0.90,0.98,0.94,26736
+gpt-4o-mini,all,funny,0.17,0.09,0.12,699
+gpt-4o-mini,all,unhelpful,0.19,0.03,0.06,2565
+gpt-4o-mini,all,failed,0.00,0.00,0.00,0
+gpt-4o-mini,all,Average (weighted),,,0.84,30000
