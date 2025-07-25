@@ -5,14 +5,14 @@ const path = require('path');
 // Define model input files
 const models = {
   'gemini': [
-    '..\\data\\test_1_merged_reviews_output_gemini-2-0-flash-001.csv',
-    '..\\data\\test_2_merged_reviews_output_gemini-2-0-flash-001.csv',
-    '..\\data\\test_3_merged_reviews_output_gemini-2-0-flash-001.csv'
+    '..\\data\\finalized_tests\\test_1_merged_reviews_output_gemini-2-0-flash-001.csv',
+    '..\\data\\finalized_tests\\test_2_merged_reviews_output_gemini-2-0-flash-001.csv',
+    '..\\data\\finalized_tests\\test_3_merged_reviews_output_gemini-2-0-flash-001.csv'
   ],
   'gpt-4o-mini': [
-    '..\\data\\test_1_merged_reviews_output_gpt-4o-mini.csv',
-    '..\\data\\test_2_merged_reviews_output_gpt-4o-mini.csv',
-    '..\\data\\test_3_merged_reviews_output_gpt-4o-mini.csv'
+    '..\\data\\finalized_tests\\test_1_merged_reviews_output_gpt-4o-mini.csv',
+    '..\\data\\finalized_tests\\test_2_merged_reviews_output_gpt-4o-mini.csv',
+    '..\\data\\finalized_tests\\test_3_merged_reviews_output_gpt-4o-mini.csv'
   ]
 };
 
