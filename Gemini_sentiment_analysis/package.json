@@ -1,0 +1,16 @@
+{
+  "name": "gemini_sentiment_analysis",
+  "version": "1.0.0",
+  "main": "eval.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Simon",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@google-cloud/vertexai": "^1.10.0",
+    "papaparse": "^5.5.3"
+  }
+}
